@@ -1,3 +1,4 @@
+theme: jekyll-theme-hacker
 ###This is stuff
 
 Stuff lives here.
