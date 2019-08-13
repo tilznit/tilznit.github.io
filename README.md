@@ -8,4 +8,4 @@ more code
 alert("hello world");
 ```
 
-[here is a link](https://www.google.com)
+[here is a link](/demo.md)
