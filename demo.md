@@ -1,4 +1,6 @@
-theme: jekyll-theme-hacker
+---
+layout: default
+---
 ###This is stuff
 
 Stuff lives here.
